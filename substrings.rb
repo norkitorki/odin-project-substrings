@@ -4,8 +4,3 @@ def substrings(str, arr)
     hash
   end.sort_by(&:first).to_h
 end
-
-DICTIONARY = [
-  "below","down","go","going","horn","how","howdy","it","i","low","own","part",
-  "partner","sit"
-]
